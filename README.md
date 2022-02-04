@@ -1,6 +1,7 @@
-CV virtual.
-Desarrollado en Python aplicando las siguientes herramientas:
-DJango (backend)
-Bootstrap (frontend)
+<div> CV virtual.
+  <li> Desarrollado en Python aplicando las siguientes herramientas: </li>
+    <li> DJango (backend) </li>
+    <li> Bootstrap (frontend)
 Pythonanywhere (Deploy)
 http://cvbautista.pythonanywhere.com/
+</div>

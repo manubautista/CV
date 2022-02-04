@@ -1,2 +1,6 @@
-CV virtual Backend con DJango, Hosteado por PythonAnywhere y CSS con NicePage. 
+CV virtual.
+Desarrollado en Python aplicando las siguientes herramientas:
+DJango (backend)
+Bootstrap (frontend)
+Pythonanywhere (Deploy)
 http://cvbautista.pythonanywhere.com/
